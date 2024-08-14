@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/website-with-reactjs/static/css/main.f3a65e2b.css",
+    "main.js": "/website-with-reactjs/static/js/main.870b22b4.js",
+    "static/js/453.171ddc7f.chunk.js": "/website-with-reactjs/static/js/453.171ddc7f.chunk.js",
+    "static/media/award.png": "/website-with-reactjs/static/media/award.515b615e3332d5fcc541.png",
+    "static/media/modijii.png": "/website-with-reactjs/static/media/modijii.701d8935325e3f56de60.png",
+    "static/media/food.png": "/website-with-reactjs/static/media/food.4b123e50c49f4a42177f.png",
+    "static/media/coins.png": "/website-with-reactjs/static/media/coins.3b3c7b74880e9ee47a89.png",
+    "static/media/int.png": "/website-with-reactjs/static/media/int.d0695a45853528756734.png",
+    "static/media/olympic.png": "/website-with-reactjs/static/media/olympic.a385fd2f4e837e565be3.png",
+    "static/media/news6.png": "/website-with-reactjs/static/media/news6.c49d0c44a219bff8251d.png",
+    "static/media/news3.png": "/website-with-reactjs/static/media/news3.08ae2b68bfb2224ea6a9.png",
+    "static/media/news1.png": "/website-with-reactjs/static/media/news1.8df7799a6211c3f9d80d.png",
+    "static/media/news5.png": "/website-with-reactjs/static/media/news5.1c153230c44ffc5e993c.png",
+    "static/media/news2.png": "/website-with-reactjs/static/media/news2.8224865279e1fb056957.png",
+    "static/media/news4.png": "/website-with-reactjs/static/media/news4.81ea8746920febfcf2d8.png",
+    "index.html": "/website-with-reactjs/index.html",
+    "main.f3a65e2b.css.map": "/website-with-reactjs/static/css/main.f3a65e2b.css.map",
+    "main.870b22b4.js.map": "/website-with-reactjs/static/js/main.870b22b4.js.map",
+    "453.171ddc7f.chunk.js.map": "/website-with-reactjs/static/js/453.171ddc7f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f3a65e2b.css",
+    "static/js/main.870b22b4.js"
+  ]
+}
