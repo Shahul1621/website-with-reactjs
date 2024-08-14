@@ -1,0 +1,99 @@
+.main{
+    background-color: lightyellow;
+}
+
+
+.main-content{
+    display: flex;
+
+}
+
+img{
+    width: 250px;
+    height: 250px;
+}
+.cinema,.sports{
+    display: flex;
+    /* background-color: lightyellow; */
+    color: firebrick;
+    border-bottom: 3px solid firebrick;
+}
+.cinema h1,.sports h1{
+    color: black;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 40px;
+}
+.cinema-content, .sports-content{
+    margin-left: 20px;
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+    width: 700px;
+}
+.right{
+    background-color: black;
+    color: lightyellow;
+    display: flex;
+    width: 300px;
+    font: 20px sans-serif;
+    flex-direction: column;
+    border: 3px solid firebrick;
+}
+.modiji-content{
+    display: flex;
+    /* background-color: firebrick; */
+    color: rgb(255, 255, 255);
+}
+.right img{
+    width: 120px;
+    height: 120px;
+}
+.modiji-content:hover{
+    color: firebrick;
+    font-size: large;
+}
+.food{
+    display: flex;
+    /* background-color: firebrick; */
+    color: rgb(255, 255, 255);
+}
+.food:hover{
+    /* background-color: lightyellow; */
+    color: firebrick;
+    font-size: large;
+}
+.economic{
+    display: flex;
+    /* background-color: firebrick; */
+    color: rgb(255, 255, 255);
+    
+}
+.economic:hover{
+    /* background-color: lightyellow; */
+    color:firebrick;
+    font-size: large;
+}
+.international{
+    display: flex;
+    /* background-color: firebrick; */
+    color: white;
+}
+.international:hover{
+    /* background-color: lightyellow; */
+    color:firebrick;
+    font-size: large;
+}
+marquee{
+    color: lightyellow;
+}
+marquee img{
+    cursor: pointer;
+    margin-top: 20px;
+}
+img:hover{
+    cursor: pointer;
+}
+.cinema h1:hover ,.sports h1:hover{
+    color: firebrick;
+    cursor: pointer;
+}

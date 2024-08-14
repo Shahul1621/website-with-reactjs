@@ -1,0 +1,35 @@
+.header nav ul li{
+    text-decoration: none;
+    list-style-type: none ;
+    text-align: center;
+    background:none;
+    color: firebrick;
+  }
+  
+  
+  .header{
+   text-align: center;
+   display: flex;
+   text-align: center;
+   align-items: center;
+   justify-content: space-between;
+   /* color: firebrick; */
+   color: black;
+   background-color:white;
+   padding: 10px;
+   font-family:Verdana, Geneva, Tahoma, sans-serif;
+   border: 2px solid firebrick;
+   position: static;
+  }
+  .header li:hover{
+    color: blueviolet;
+    font-size: larger;
+  }
+  
+  
+  .list{
+    width: 50%;
+   display: flex;
+   justify-content: space-between;
+   gap: 40px;
+  }
